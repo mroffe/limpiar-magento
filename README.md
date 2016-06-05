@@ -1,1 +1,1 @@
-# limpiar-magento
+# SQL para limpiar Magento
